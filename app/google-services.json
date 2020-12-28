@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962296540409",
+    "firebase_url": "https://qrlabix.firebaseio.com",
+    "project_id": "qrlabix",
+    "storage_bucket": "qrlabix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962296540409:android:f7ee15e2058ad8a5fbc628",
+        "android_client_info": {
+          "package_name": "com.example.labixsupplies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962296540409-6beftnuvvuf4gi1jp3d9a73dgp2jc99e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbljyScDndqnhrtfh2cZWKatETDeYFq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962296540409-6beftnuvvuf4gi1jp3d9a73dgp2jc99e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962296540409-47l6rkc389rs8kf0g04o9lh43tnecvcm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Alex-Stepanov.QRLabix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
